@@ -1,7 +1,7 @@
 # First_Calculator
 My first GUI calculator app (Python tkinter)
 
-After about 4-5 months of learning how to programm in Python, I have decided to go build something I could actually show off
+After about 4-5 months of learning how to programm in Python, I have decided to go build something I could actually show off.
 It definitely wasn't easy and it took me quite a while to debugg (hopefully almost everything), but I would say it has helped me tremendously. Not only have I improved with the Tkinter library, but also have gained some project experience.
 I am definitely looking forward to more difficult and complex projects.
 
